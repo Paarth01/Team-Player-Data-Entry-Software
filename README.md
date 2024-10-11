@@ -17,9 +17,3 @@ This is a basic C++ program designed to manage and handle player data for a team
 ## Requirements
 
 - C++ Compiler (GCC, Clang, etc.)
-  
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Paarth01/Team-Player-Data-Entry-Software.git
